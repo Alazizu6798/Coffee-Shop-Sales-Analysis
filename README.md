@@ -4,7 +4,7 @@
 The primary aim was to empower the decision-makers of Coffee Shop with data-driven insights, fostering strategic growth and compititiveness in dynamic coffee shop industry.
 
 ## DataSet Used 
- - <a href="=https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Sales Data</a>
+ - <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Sales Data</a>
 # Business Requirements
 
 - Enhanced understanging of sales dynamics and performance drivers.
