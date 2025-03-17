@@ -14,18 +14,18 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 - Actionable recommendation for optimizing sales and profit across various dimensions.
 # Question (KPIs)
 
-1. Total Sales Analysis:
-• Calculate the total sales for each respective month.
-• Determine the month-on-month increase or decrease in sales.
-• Calculate the difference in sales between the selected month and the previous month.
+1. Total Sales Analysis
+-  Calculate the total sales for each respective month.
+-  Determine the month-on-month increase or decrease in sales.
+-  alculate the difference in sales between the selected month and the previous month.
 2. Total Orders Analysis:
-• Calculate the total number of orders for each respective month.
-• Determine the month-on-month increase or decrease in the number of orders.
-• Calculate the difference in the number of orders between the selected month and the previous month.
+-  alculate the total number of orders for each respective month.
+-  etermine the month-on-month increase or decrease in the number of orders.
+-  alculate the difference in the number of orders between the selected month and the previous month.
 3. Total Quantity Sold Analysis:
-• Calculate the total quantity sold for each respective month.
-• Determine the month-on-month increase or decrease in the total quantity sold.
-• Calculate the difference in the total quantity sold between the selected month and the previous month.
+-  alculate the total quantity sold for each respective month.
+-  etermine the month-on-month increase or decrease in the total quantity sold.
+-  alculate the difference in the total quantity sold between the selected month and the previous month.
 - Dashboard Interaction <a href="https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-08%20195301.png">View Dashboard</a>
 
 # Process
