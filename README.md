@@ -68,9 +68,8 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 ![Screenshot(495)](https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/coffee%20shop%20dashboaard.png)
 
 # Project Insights 
-- Men's street Footwear are more likely to be first priority of the customers.
-- Total operating profit from both the years (2020-2021) is $332 Million.
-- Total Units from entire stores from every locations is 2 Million Which is good Amount.
-- The highest sales were recorded in the month of July.
- - Maximum number of Sales is done by West Gear Retailer.
-- New York is state with highest number of sales.
+- Barista Espresso are more likely to be first priority of the customers.
+- Highest Operating sales was done in month of June which was $166K..
+ - Maximum number of Sales is done by Hell's Kitchen.
+ - Profitable and large engagement time falls under first half of the day which is in between 7AM-11AM.
+- There large number of sale in weekdays as compaered to weekends.
