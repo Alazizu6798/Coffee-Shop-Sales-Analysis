@@ -61,7 +61,7 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 - Created Heat chart to display sales as per days specifically on particular hour.
 - Created Calender Heat Map in which each day will show sales volume.
 - Used Donut chart to show sales by weekdays and weekends.
-- Used Bar chart to analyze the sales distribution among various Stores and product category to viualize the contribution of Stores as per there location in total sales.
+- Used Bar chart to analyze the sales distribution among various Stores and product category to vizualize the contribution of Stores as per there location in total sales.
 - Applied slicers to make it dynamic.
 
 # Dashboard
