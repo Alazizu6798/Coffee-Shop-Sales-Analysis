@@ -54,13 +54,14 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 - SQL Process <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/MY%20SQL%20Queries.docx">Sql Queries<a/>
 
 # Process
-- Verified data for any  missing values and anomalies , and sort out the same.
-- Made sure that data is clean and consistent with respect to data type, data format and values used.
+- Verified data for any  missing values and anomalies.
+- Performed Data cleaning changed some data types so that data is clean and consistent with respect to data type, data format and values used in MySQL.
 - Used KPI card to display business requirements according to the questions asked.
-- Used Area chart to show the monthly distribution of totale sales to identify peak periods.
-- Used Filled Map to represent total sales across different regions to total sales.
-- Used Donut chart to represent the contibution of different regions to total sales.
-- Used Bar chart to analyze the sales distribution among various Adidas products and to viualize the contribution of different retailers to total sales.
+- Used column chart to show Daily Sales Analysis with Average Line of total sales to identify exceptional sales days.
+- Created Heat chart to display sales as per days specifically on particular hour.
+- Created Calender Heat Map in which each day will show sales volume.
+- Used Donut chart to show sales by weekdays and weekends.
+- Used Bar chart to analyze the sales distribution among various Stores and product category to viualize the contribution of Stores as per there location in total sales.
 - Applied slicers to make it dynamic.
 
 # Dashboard
