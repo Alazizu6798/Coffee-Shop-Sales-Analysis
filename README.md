@@ -63,7 +63,7 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 - Applied slicers to make it dynamic.
 
 # Dashboard
-![Screenshot(495)](https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-08%20195301.png)
+![Screenshot(495)](https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/coffee%20shop%20dashboaard.png)
 
 # Project Insights 
 - Men's street Footwear are more likely to be first priority of the customers.
