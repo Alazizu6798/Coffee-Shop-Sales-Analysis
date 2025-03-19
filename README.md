@@ -50,7 +50,7 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 10. Sales Analysis by Days and Hours:
 - Utilize a heat map to visualize sales patterns by days and hours.
 - Implement tooltips to display detailed metrics (Sales, Orders, Quantity) when hovering over a specific day-hour.
-- Dashboard Interaction <a href="https://github.com/Alazizu6798/Data-Analysis-Dashboard/blob/main/Screenshot%202025-03-08%20195301.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20shop%20sales%20Analysis.pbix">View Dashboard</a>
 - SQL Process <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/MY%20SQL%20Queries.docx">Sql Queries<a/>
 
 # Process
