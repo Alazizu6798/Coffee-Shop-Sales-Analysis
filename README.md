@@ -7,10 +7,10 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
  - <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Sales Data</a>
 # Business Requirements
 
-- Enhanced understanging of sales dynamics and performance drivers.
+- Enhance understanging of sales dynamics and performance drivers.
 - Identification of Geographical areas with high and low sales potential.
-- Insightsinto product performance, aiding in inventory and marketing decisions.
-- Informed pricing and margin strategies for improved profitability.
+- Provide insights of product performance, aiding in inventory and marketing decisions.
+- Inform pricing and margin strategies for improved profitability.
 - Actionable recommendation for optimizing sales and profit across various dimensions.
 # Question (KPIs)
 
@@ -55,7 +55,7 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 
 # Process
 - Verified data for any  missing values and anomalies.
-- Performed Data cleaning changed some data types so that data is clean and consistent with respect to data type, data format and values used in MySQL.
+- Performed Data cleaning, changed some data types so that data is clean and consistent with respect to data type, data format and values using MySql.
 - Used KPI card to display business requirements according to the questions asked.
 - Used column chart to show Daily Sales Analysis with Average Line of total sales to identify exceptional sales days.
 - Created Heat chart to display sales as per days specifically on particular hour.
