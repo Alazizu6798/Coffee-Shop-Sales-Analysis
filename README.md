@@ -1,13 +1,13 @@
 # Coffee Shop Sales Dashboard
 
 # Project Objective
-The primary aim was to empower the decision-makers of Coffee Shop with data-driven insights, fostering strategic growth and compititiveness in dynamic coffee shop industry.
+The primary aim was to empower the decision-makers of Coffee Shop with data-driven insights, fostering strategic growth and competitiveness in dynamic coffee shop industry.
 
-## DataSet Used 
+## Dataset Used 
  - <a href="https://github.com/Alazizu6798/Coffee-Shop-Sales-Analysis/blob/main/Coffee%20Shop%20Sales.xlsx">Sales Data</a>
 # Business Requirements
 
-- Enhance understanging of sales dynamics and performance drivers.
+- Enhance understanding of sales dynamics and performance drivers.
 - Identification of Geographical areas with high and low sales potential.
 - Provide insights of product performance, aiding in inventory and marketing decisions.
 - Inform pricing and margin strategies for improved profitability.
@@ -59,9 +59,9 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 - Used KPI card to display business requirements according to the questions asked.
 - Used column chart to show Daily Sales Analysis with Average Line of total sales to identify exceptional sales days.
 - Created Heat chart to display sales as per days specifically on particular hour.
-- Created Calender Heat Map in which each day will show sales volume.
+- Created Calendar Heat Map in which each day will show sales volume.
 - Used Donut chart to show sales by weekdays and weekends.
-- Used Bar chart to analyze the sales distribution among various Stores and product category to vizualize the contribution of Stores as per there location in total sales.
+- Used Bar chart to analyze the sales distribution among various Stores and product category to visualize the contribution of Stores as per there location in total sales.
 - Applied slicers to make it dynamic.
 
 # Dashboard
@@ -73,3 +73,6 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
  - Maximum number of Sales is done by Hell's Kitchen.
  - Profitable and large engagement time falls under first half of the day which is in between 7AM-11AM.
 - There are large number of sales in weekdays as compared to weekends.
+# Conclusion
+The Coffee Shop Sales Dashboard successfully delivered actionable insights to support strategic decision-making. The analysis revealed that Barista Espresso is the top-performing product, while June marked the peak in sales at $166K. Hell's Kitchen emerged as the highest revenue-generating store, and customer engagement is strongest during weekday mornings (7 AM – 11 AM). Additionally, weekdays consistently outperform weekends in sales volume, indicating opportunities for targeted promotions during slower periods.
+The use of dynamic visualizations, including calendar and hourly heatmaps, location-based comparisons, and performance KPIs, enabled a deeper understanding of sales patterns, customer behavior, and store performance. These insights can inform inventory planning, marketing strategies, and staffing decisions, ultimately driving growth and profitability.
