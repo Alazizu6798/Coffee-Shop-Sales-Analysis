@@ -72,4 +72,4 @@ The primary aim was to empower the decision-makers of Coffee Shop with data-driv
 - Highest Operating sales was done in month of June which was $166K..
  - Maximum number of Sales is done by Hell's Kitchen.
  - Profitable and large engagement time falls under first half of the day which is in between 7AM-11AM.
-- There large number of sale in weekdays as compaered to weekends.
+- There are large number of sales in weekdays as compared to weekends.
